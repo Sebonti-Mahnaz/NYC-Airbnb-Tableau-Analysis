@@ -56,8 +56,11 @@ Combines review trends with a price-versus-reviews scatter plot to explore how p
 - **Microsoft Excel** — Data cleaning and preparation
 - **Power BI** — Used during data checking to help identify and resolve data issues
 
-## Project Structure
-The portfolio repository is designed to include the packaged Tableau workbook, cleaned Airbnb dataset, and supporting project documentation alongside this README.
+## Repository Files
+- `Airbnb Project_SebontiMahnaz.twbx` — Packaged Tableau workbook with the interactive analysis
+- `Airbnb dataset-fin.csv` — Cleaned NYC Airbnb dataset used for the project
+- `Airbnb Project_SebontiMahnaz.docx` — Full project documentation, dashboard discussion, story, and conclusions
+- `README.md` — Portfolio overview and key findings
 
 ## Skills Demonstrated
 Data cleaning · Exploratory data analysis · Tableau calculations · Interactive filters and parameters · Dashboard design · Geographic analysis · Data storytelling · Business insight generation
